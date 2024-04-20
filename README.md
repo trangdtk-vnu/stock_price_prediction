@@ -1,4 +1,5 @@
 Stock Price Prediction
+
 This repository contains implementations for predicting stock price movements, focusing on IBM stock. The prediction task is facilitated by three different architectures: simple Recurrent Neural Networks (RNNs), Long Short-Term Memory Networks (LSTM), and Adaptive Neuro-Fuzzy Inference Systems (ANFIS).
 
 Repository Contents:
