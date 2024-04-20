@@ -8,4 +8,4 @@ This file contains essential functions required for the stock price prediction t
 2. Python Script:
 This script serves as the main entry point for conducting stock price prediction experiments. It utilizes the functions provided in the "Functions Module" to implement the prediction task using the RNN, LSTM, and ANFIS architectures.
 
-By leveraging these components, others can easily explore and experiment with different approaches for predicting IBM stock prices.
+By leveraging these components, others can easily explore and experiment with different approaches for predicting IBM stock prices as well as others.
